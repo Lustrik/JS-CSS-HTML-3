@@ -3,5 +3,8 @@
 Если значение числовое, то напечатать таблицу умножения на это число (от 1 до 10).
 Все вторые множители покрасить в зелёный.
 
+![image](https://github.com/Lustrik/JS-CSS-HTML-3/assets/137787455/0ede7d21-8dc9-4851-80c5-b326c25ab6fb)
+
+
 Реализация:
 https://plnkr.co/plunk/ZyQKaIfXwB2ggEUT
